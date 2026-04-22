@@ -68,6 +68,4 @@
 5. 运行 `illegal_parking_matrix.py` 生成矩阵。
 6. 用 `EM-PCIP-V2.py` 进行概率推断。
 
-## 联系方式
 
-如有疑问或建议，请联系xiang.chaocan@gmail.com。
