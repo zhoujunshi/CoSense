@@ -43,9 +43,3 @@ The pipeline processes CARLA-collected vehicle images and metadata, estimates gr
 - NumPy
 - OpenCV
 - Ultralytics YOLOv8
-- CARLA-collected RGB images and metadata
-
-Install dependencies:
-
-```bash
-pip install numpy opencv-python ultralytics
